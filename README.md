@@ -20,6 +20,7 @@ in simple object oriented java by reducing complexity and development time. For 
 is also generated. All the relevant maven dependencies have been added in the pom.xml file 
 
 _PACKAGES AND CLASSES:_
+*rest-service/src/main/java/com/ is the path of the packages*
 The main RestServiceApplication class is from where we run the application.
 The remaining classes that form the body of the program are in the package iexceed.tools. This package has two subpackages:
 1) dto(data transfer object): This has all the classes whose objects are going to be used in the program. They have been 
